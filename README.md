@@ -12,7 +12,7 @@
 
 ### About Me
 
-- **Software Engineering Student**
+- **Computer Science Student**
 - Currently focusing on **Operating Systems, Computer Organization, Assembly, and low-level programming**
 - I've worked on projects like a **POSIX Shell** and **Ray Tracer** (see projects section below).
 - My personal website is at [https://hissamshar.github.io](https://hissamshar.github.io)
